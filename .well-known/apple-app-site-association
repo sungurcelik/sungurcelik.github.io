@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["MH67ZAJ8D9.com.sungurcelik.hopla"],
+        "components": [
+          { "/": "/hopla/join/*", "comment": "Room invites open the game" }
+        ]
+      }
+    ]
+  }
+}
