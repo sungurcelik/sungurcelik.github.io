@@ -1,0 +1,2 @@
+# Jekyll skips folders that start with a dot; Apple reads the invite file from .well-known.
+include: [".well-known"]
